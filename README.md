@@ -2,7 +2,7 @@
 
 ### What am I working on? 🧑🏽‍💻
 * Building more features for [Tiny API](https://tiny-api.dev) - A web tool for front end devs who quickly need a temporary API to use for development.
-* Building a markdown blog for my [website](https://harderhutton.dev), 2021 will be the year I start to write down what I learn!
+* Building a markdown blog for my [website](https://harderhutton.dev), 2021 will be the year that I start sharing things I learn!
 * Getting more experience creating Continuous Deployment pipelines, deploying directly to VPSs instead of managed containers.
 * Conceptualising Diff Doc - a Wide-Column Database written in [Golang](https://golang.org/) for storing large amounts of very large highly redundant JSON documents
 
