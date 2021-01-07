@@ -10,9 +10,6 @@ I'm Cameron - a software engineer in Brisbane, Australia.
 ### Say Hello 👋
 I'm always keen to meet other people in tech and talk about tech-y things! Send me an email at [cameron@harderhutton.dev](mailto:cameron@harderhutton.dev) or drop me a message on [LinkedIn](https://www.linkedin.com/in/cameron-harder-hutton/).
 
-
-![cameronhh github stats](https://github-readme-stats.vercel.app/api?username=cameronhh&show_icons=true&hide_border=true)
-
 <!--
 **cameronhh/cameronhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
