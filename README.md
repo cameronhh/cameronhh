@@ -2,7 +2,7 @@
 
 ### At the moment, I'm working on:
 * Building more features for [Tiny API](https://tiny-api.dev) - A web tool for front end devs who quickly need a temporary API to use for development
-* Deploying a demo-version of Checkomo - An open-source QR code check-in management application that a friend and I created
+* Deploying a demo-version of [Checkomo](https://github.com/cameronhh/checkomo-check-in) - An open-source QR code check-in management application that a friend and I created
 * Getting more experience creating Continuous Deployment pipelines, deploying directly to VPSs instead of managed containers
 * Conceptualising Diff Doc - a Wide-Column Database written in (I'm not sure yet) for storing large amounts of very large and highly redundant JSON documents
 
